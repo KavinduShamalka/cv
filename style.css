@@ -1,0 +1,22 @@
+.res1 {
+    margin: 1px;
+}
+
+.res2 {
+    margin: 34.5px;
+}
+
+.res3 {
+    margin: 38px;
+}
+
+.work  thead {
+    background-color: #333;
+    color: #fff;
+}
+
+.form {
+    margin-left: 500px;
+    width: 100px;
+    max-width: 1000px;
+}
